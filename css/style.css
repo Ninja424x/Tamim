@@ -1,0 +1,64 @@
+.nav-item .nav-link{
+  font-size: 17px;
+}
+
+/* carousel start */
+.carouselImg1{
+  height: 500px;
+  background-image: url(../Myimg/abackground1.jpeg);
+  background-size: cover;
+}
+
+.carouselImg2{
+  height: 500px;
+  background-image: url(../Myimg/abackground2.jpeg);
+  background-size: cover;
+}
+
+.carouselImg3{
+  height: 500px;
+  background-image: url(../Myimg/abackground3.jpeg);
+  background-size: cover;
+}
+
+.carousel-caption{
+  top:40%;
+}
+
+/* carousel end */
+/* get started banner start */
+#section-getstart{
+  height: 250px;
+    background: url(../Myimg/aimage1.jpeg);
+    background-attachment: fixed;
+    background-size:cover;
+}
+
+#section-getstart .dark-overlay{
+  height: 250px;
+  background-color:rgba(0, 0, 0, 0.308);
+}
+/* get started banner end */
+/* Video-site first*/
+#video-sectionyup{
+  background-image:url(../Myimg/ben4.jpg);
+    background-attachment: fixed;
+    background-size:cover;
+}
+
+.fa-play-circle{
+  color: rgb(255, 0, 0);
+}
+/* Video-site end */
+
+/* Photo gallery start */
+#photogallery img{
+  height:250px;
+  width:100%;
+}
+
+/* Photo gallery end */
+/* copyright-section start  */
+#copyrightno {
+  background-color: black;
+}
